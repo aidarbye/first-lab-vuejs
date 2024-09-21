@@ -3,11 +3,11 @@
         <div class="container">
             <div class="blog-content-posts">
                 <div class="blog-content-posts-post-area">
-                    <BlogContentPost image="https://avatars.mds.yandex.net/i?id=04b2ce105e2b5d8b15ff70a34b3fc7d12a895fce-5305831-images-thumbs&n=13" title="The cats will remove AI" date="December 26, 2003" height="300"/>
+                    <BlogContentPost image="https://avatars.mds.yandex.net/i?id=04b2ce105e2b5d8b15ff70a34b3fc7d12a895fce-5305831-images-thumbs&n=13" title="The cats will remove AI" date="December 26, 2003" height="300" />
                     <BlogContentPost image="https://avatars.mds.yandex.net/i?id=04b2ce105e2b5d8b15ff70a34b3fc7d12a895fce-5305831-images-thumbs&n=13" title="The cats will remove AI" date="December 26, 2003" height="300"/>
                 </div>
                 <div class="blog-content-posts-post-area">
-                    <BlogContentPost image="https://avatars.mds.yandex.net/i?id=04b2ce105e2b5d8b15ff70a34b3fc7d12a895fce-5305831-images-thumbs&n=13" title="The cats will remove AI" date="December 26, 2003" />
+                    <BlogContentPost image="https://avatars.mds.yandex.net/i?id=04b2ce105e2b5d8b15ff70a34b3fc7d12a895fce-5305831-images-thumbs&n=13" title="The cats will remove AI" date="December 26, 2003" tags = true />
                 </div>
                 <div class="blog-content-posts-post-area">
                     <BlogContentPost image="https://avatars.mds.yandex.net/i?id=04b2ce105e2b5d8b15ff70a34b3fc7d12a895fce-5305831-images-thumbs&n=13" title="The cats will remove AI" date="December 26, 2003" height="300"/>
